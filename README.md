@@ -1,11 +1,8 @@
 # Getting-CleaningData
 Getting and Cleaning Data - Course Project 
 In order to run this script do the following steps:
-1. download the data into your working directory from this link, unzip the file;    
-  "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip" 
- if you would like a full description of how the datawas collected you can find it here
-  "http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones"
 
+1. download the data into your working directory from this link, unzip the file; "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
 2. upload the below files into R (each separtly): y_test, X_test, subject_test
                                                   y_train, X_train, subject_train
 3. create two data sets combing test data together and train togather. than merge the two to create one data set
